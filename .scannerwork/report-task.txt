@@ -1,0 +1,6 @@
+projectKey=rewatidemo
+serverUrl=https://quality.growexx.com
+serverVersion=8.9.6.50800
+dashboardUrl=https://quality.growexx.com/dashboard?id=rewatidemo
+ceTaskId=AYH808DCqsoXjOebMDMn
+ceTaskUrl=https://quality.growexx.com/api/ce/task?id=AYH808DCqsoXjOebMDMn
